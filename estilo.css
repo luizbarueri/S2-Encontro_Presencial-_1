@@ -2,8 +2,21 @@ body {
     background-color: chocolate;
 }
 #menu {
-    width: 100%;
-    height: 60px;
+    /*width: 100%;
+    height: 60px;*/
+    background-color: coral);
     justify-content: center;
     display: flex;
+    /*justify-content: space-between;*/
+}
+.linkMenu {
+    width: 100px;
+    border: 4px solid coral;
+    text-align: center;
+    background-color:white;
+    color: chocolate;
+    font-size: 12pt;
+    text-decoration: none;
+    border-radius: 45px;
+    padding: 5px;
 }
